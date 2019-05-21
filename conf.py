@@ -1,0 +1,10 @@
+MAILGUN_API_KEY = '56912c2f4b4e23fe0f3b424b37e17c74-4a62b8e8-df487745'
+SANDBOX_URL= 'sandbox382ac17a4ab14b3fb9866f224a53c68f.mailgun.org'
+SENDER_EMAIL = 'test@sandbox382ac17a4ab14b3fb9866f224a53c68f.mailgun.org'
+RECIPIENT_EMAIL = 'kraishwary16@gmail.com'
+API_KEY = '9e410261-7e84-48db-8d00-f331a1fc715a'
+DEVICE_ID = 'BOLT6094304'
+telegram_chat_id = ["@bolt1Pe16IS050","@bossbolt"]
+telegram_bot_id = "bot638025713:AAHVYCO-IaqtjQU52Md-GDypXc2Ly6kt_yI"
+FRAME_SIZE = 10
+MUL_FACTOR = 5
